@@ -9,13 +9,16 @@
   
 
 - [Datasets](#datasets)
+  - [Datasets for image-text composite editing](#datasets-for-image-text-composite-editing)
+  - [Datasets for image-text composite retrieval](#datasets-for-image-text-composite-retrieval)
+  - [Other mutimodal composite retrieval](#datasets-for-other-mutimodal-composite-retrieval)
 
 
 # Papers and related codes
 ## Image-text composite editing
 
 ## Image-text composite retrieval
-**[arXiv, 2024] Dynamic weighted combiner for mixed-modal image retrieval** \
+**[AAAI, 2024] Dynamic weighted combiner for mixed-modal image retrieval** \
 *Fuxiang Huang, Lei Zhang, Xiaowei Fu, Suqi Song* \
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28004/28023)] [[GitHub](https://github.com/fuxianghuang1/DWC)]
 
@@ -25,11 +28,15 @@
 [[Paper]()] [[GitHub]()]
 
 
-## Other Mutimodal Composite Retrieval
+## Other mutimodal composite retrieval
 
 # Datasets
 
-## 
+## Datasets for image-text composite editing
+
+## Datasets for image-text composite editing
+
+## Datasets for other mutimodal composite retrieval
 
 
 
