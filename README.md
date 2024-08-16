@@ -27,7 +27,6 @@
 *authors* \
 [[Paper]()] [[GitHub]()]
 
-
 ## Other mutimodal composite retrieval
 
 # Datasets
@@ -39,6 +38,4 @@
 ## Datasets for other mutimodal composite retrieval
 
 
-
-
-[NOTE] **If you have any questions, please don't hesitate to contact us (suyanli220@gmail.com, fxhuang1995@gmail.com).** 
+[NOTE] **If you have any questions, please don't hesitate to contact us (suyanli220@gmail.com, fxhuang1995@gmail.com, leizhang@cqu.edu.cn).** 
