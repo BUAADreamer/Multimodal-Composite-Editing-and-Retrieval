@@ -33,7 +33,7 @@
 
 ## Datasets for image-text composite editing
 
-## Datasets for image-text composite editing
+## Datasets for image-text composite retrieval
 
 ## Datasets for other mutimodal composite retrieval
 
