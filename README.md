@@ -352,11 +352,11 @@
 
 **[ECCV, 2020] Learning joint visual semantic matching embeddings for language-guided retrieval**  
 *Yanbei Chen, Loris Bazzani*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Banani_Learning_Visual_Representations_via_Language-Guided_Sampling_CVPR_2023_paper.pdf)]
 
 **[arXiv, 2020] CurlingNet: Compositional Learning between Images and Text for Fashion IQ Data**  
 *Youngjae Yu, Seunghwan Lee, Yuncheol Choi, Gunhee Kim*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://arxiv.org/pdf/2003.12299)]
 
 **[CVPR, 2020] Image search with text feedback by visiolinguistic attention learning**  
 *Yanbei Chen, Shaogang Gong, Loris Bazzani*  
@@ -364,133 +364,137 @@
 
 **[arXiv, 2020] Modality-Agnostic Attention Fusion for visual search with text feedback**  
 *Eric Dodds, Jack Culpepper, Simao Herdade, Yang Zhang, Kofi Boakye*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://arxiv.org/pdf/2007.00145)] [[GitHub](https://github.com/yahoo/maaf)]
 
 #2018
 
 **[CVPR, 2018] Language-based image editing with recurrent attentive models**  
 *Jianbo Chen, Yelong Shen, Jianfeng Gao, Jingjing Liu, Xiaodong Liu*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Language-Based_Image_Editing_CVPR_2018_paper.pdf)]
 
 **[NeurIPS, 2018] Dialog-based interactive image retrieval**  
 *Xiaoxiao Guo, Hui Wu, Yu Cheng, Steven Rennie, Gerald Tesauro, Rogerio Feris*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://proceedings.neurips.cc/paper_files/paper/2018/file/a01a0380ca3c61428c26a231f0e49a09-Paper.pdf)] [[GitHub](https://github.com/XiaoxiaoGuo/fashion-retrieval)]
 
 #2017
 
 **[ICCV, 2017] Automatic spatially-aware fashion concept discovery**  
 *Xintong Han, Zuxuan Wu, Phoenix X Huang, Xiao Zhang, Menglong Zhu, Yuan Li, Yang Zhao, Larry S Davis*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8237425)]
 
 **[ICCV, 2017] Be your own prada: Fashion synthesis with structural coherence**  
 *Shizhan Zhu, Raquel Urtasun, Sanja Fidler, Dahua Lin, Chen Change Loy*  
-[[Paper](#)] [[GitHub](#)]
-
-#2015
-
-**[CVPR, 2015] Discovering states and transformations in image collections**  
-*Phillip Isola, Joseph J Lim, Edward H Adelson*  
-[[Paper](#)] [[GitHub](#)]
-
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Be_Your_Own_ICCV_2017_paper.pdf)] [[GitHub](https://github.com/zhusz/ICCV17-fashionGAN)]
 
 ## Other mutimodal composite retrieval
 
+# 2024
+
 **[CVPR, 2024] Tri-modal motion retrieval by learning a joint embedding space**  
 *Kangning Yin, Shihao Zou, Yuxuan Ge, Zheng Tian*  
-[[Paper](#)] [[GitHub](#)]
-
-**[ICCV, 2021] Telling the what while pointing to the where: Multimodal queries for image retrieval**  
-*Soravit Changpinyo, Jordi Pont-Tuset, Vittorio Ferrari, Radu Soricut*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_Tri-Modal_Motion_Retrieval_by_Learning_a_Joint_Embedding_Space_CVPR_2024_paper.pdf)]
 
 **[WACV, 2024] Modality-Aware Representation Learning for Zero-shot Sketch-based Image Retrieval**  
 *Eunyi Lyou, Doyeon Lee, Jooeun Kim, Joonseok Lee*  
-[[Paper](#)] [[GitHub](#)]
-
-**[TOG, 2009] Sketch2photo: Internet image montage**  
-*Tao Chen, Ming-Ming Cheng, Ping Tan, Ariel Shamir, Shi-Min Hu*  
-[[Paper](#)] [[GitHub](#)]
-
-**[IJCNLP, 2017] Draw and tell: Multimodal descriptions outperform verbal-or sketch-only descriptions in an image retrieval task**  
-*Ting Han, David Schlangen*  
-[[Paper](#)] [[GitHub](#)]
-
-**[BMVC, 2017] Fine-grained image retrieval: the text/sketch input dilemma**  
-*Jifei Song, Yi-Zhe Song, Tao Xiang, Timothy Hospedales*  
-[[Paper](#)] [[GitHub](#)]
-
-**[ECCV, 2022] A sketch is worth a thousand words: Image retrieval with text and sketch**  
-*Patsorn Sangkloy, Wittawat Jitkrittum, Diyi Yang, James Hays*  
-[[Paper](#)] [[GitHub](#)]
-
-**[CVPR, 2023] SceneTrilogy: On Human Scene-Sketch and its Complementarity with Photo and Text**  
-*Pinaki Nath Chowdhury, Ayan Kumar Bhunia, Aneeshan Sain, Subhadeep Koley, Tao Xiang, Yi-Zhe Song*  
-[[Paper](#)] [[GitHub](#)]
-
-**[CVPR, 2021] Connecting what to say with where to look by modeling human attention traces**  
-*Zihang Meng, Licheng Yu, Ning Zhang, Tamara L Berg, Babak Damavandi, Vikas Singh, Amy Bearman*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Lyou_Modality-Aware_Representation_Learning_for_Zero-Shot_Sketch-Based_Image_Retrieval_WACV_2024_paper.pdf)] [[GitHub](https://github.com/eunyi-lyou/MA-ZS-SBIR)]
 
 **[CVPR, 2024] Pros: Prompting-to-simulate generalized knowledge for universal cross-domain retrieval**  
 *Kaipeng Fang, Jingkuan Song, Lianli Gao, Pengpeng Zeng, Zhi-Qi Cheng, Xiyao Li, Heng Tao Shen*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Fang_ProS_Prompting-to-simulate_Generalized_knowledge_for_Universal_Cross-Domain_Retrieval_CVPR_2024_paper.pdf)] [[GitHub](https://github.com/fangkaipeng/ProS)]
 
 **[CVPR, 2024] You'll Never Walk Alone: A Sketch and Text Duet for Fine-Grained Image Retrieval**  
 *Subhadeep Koley, Ayan Kumar Bhunia, Aneeshan Sain, Pinaki Nath Chowdhury, Tao Xiang, Yi-Zhe Song*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Koley_Youll_Never_Walk_Alone_A_Sketch_and_Text_Duet_for_CVPR_2024_paper.pdf)]
 
 **[AAAI, 2024] T2i-adapter: Learning adapters to dig out more controllable ability for text-to-image diffusion models**  
 *Chong Mou, Xintao Wang, Liangbin Xie, Yanze Wu, Jian Zhang, Zhongang Qi, Ying Shan*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://arxiv.org/pdf/2302.08453)] [[GitHub](https://github.com/TencentARC/T2I-Adapter)]
 
-**[CVPR, 2017] Spatial-Semantic Image Search by Visual Feature Synthesis**  
-*Long Mai, Hailin Jin, Zhe Lin, Chen Fang, Jonathan Brandt, Feng Liu*  
-[[Paper](https://ieeexplore.ieee.org/document/8099464)] [[GitHub](#)]
+**[IEEE/CVF, 2024] TriCoLo: Trimodal contrastive loss for text to shape retrieval**  
+*Yue Ruan, Han-Hung Lee, Yiming Zhang, Ke Zhang, Angel X Chang*  
+[[Paper](https://openaccess.thecvf.com/content/WACV2024/html/Ruan_TriCoLo_Trimodal_Contrastive_Loss_for_Text_to_Shape_Retrieval_WACV_2024_paper.html)] [[GitHub](https://github.com/3dlg-hcvc/tricolo)]
 
-**[ACM Multimedia, 2017] Region-based image retrieval revisited**  
-*Ryota Hinami, Yusuke Matsui, Shin'ichi Satoh*  
-[[Paper](https://dl.acm.org/doi/10.1145/3123266.3123316)] [[GitHub](#)]
+#2023
 
-**[Multimedia Tools and Applications, 2019] Efficient and interactive spatial-semantic image retrieval**  
-*Ryosuke Furuta, Naoto Inoue, Toshihiko Yamasaki*  
-[[Paper](https://link.springer.com/article/10.1007/s11042-018-6527-x)] [[GitHub](#)]
+**[CVPR, 2023] SceneTrilogy: On Human Scene-Sketch and its Complementarity with Photo and Text**  
+*Pinaki Nath Chowdhury, Ayan Kumar Bhunia, Aneeshan Sain, Subhadeep Koley, Tao Xiang, Yi-Zhe Song*  
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chowdhury_SceneTrilogy_On_Human_Scene-Sketch_and_Its_Complementarity_With_Photo_and_CVPR_2023_paper.pdf)]
 
-**[arXiv, 2019] Query by Semantic Sketch**  
-*Luca Rossetto, Ralph Gasser, Heiko Schuldt*  
-[[Paper](https://arxiv.org/abs/1909.01477)] [[GitHub](#)]
+#2022
 
-**[EURASIP Journal on Advances in Signal Processing, 2003] Semantic indexing of multimedia content using visual, audio, and text cues**  
-*WH Adams, Giridharan Iyengar, Ching-Yung Lin, Milind Ramesh Naphade, Chalapathy Neti, Harriet J Nock, John R Smith*  
-[[Paper](https://link.springer.com/article/10.1155/S1110863X03004244)] [[GitHub](#)]
+**[ECCV, 2022] A sketch is worth a thousand words: Image retrieval with text and sketch**  
+*Patsorn Sangkloy, Wittawat Jitkrittum, Diyi Yang, James Hays*  
+[[Paper](https://dl.acm.org/doi/abs/10.1007/978-3-031-19839-7_15)]
 
 **[ECCV, 2022] Motionclip: Exposing human motion generation to clip space**  
 *Guy Tevet, Brian Gordon, Amir Hertz, Amit H Bermano, Daniel Cohen-Or*  
-[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-19828-4_21)] [[GitHub](#)]
+[[Paper](https://arxiv.org/pdf/2203.08063)] [[GitHub](https://github.com/GuyTevet/MotionCLIP)]
 
-**[IEEE/CVF Winter Conference on Applications of Computer Vision, 2024] TriCoLo: Trimodal contrastive loss for text to shape retrieval**  
-*Yue Ruan, Han-Hung Lee, Yiming Zhang, Ke Zhang, Angel X Chang*  
-[[Paper](https://openaccess.thecvf.com/content/WACV2024/html/Ruan_TriCoLo_Trimodal_Contrastive_Loss_for_Text_to_Shape_Retrieval_WACV_2024_paper.html)] [[GitHub](#)]
-
-**[IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2022] Multimodal Fusion Remote Sensing Image–Audio Retrieval**  
+**[IEEE, 2022] Multimodal Fusion Remote Sensing Image–Audio Retrieval**  
 *Rui Yang, Shuang Wang, Yingzhi Sun, Huan Zhang, Yu Liao, Yu Gu, Biao Hou, Licheng Jiao*  
-[[Paper](https://ieeexplore.ieee.org/document/9865834)] [[GitHub](#)]
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9847567)]
 
-**[10th Conference on Open Research Areas in Information Retrieval, 2013] NovaMedSearch: a multimodal search engine for medical case-based retrieval**  
-*André Mourão, Flávio Martins*  
-[[Paper](#)] [[GitHub](#)]
+#2021
 
-**[12th International Conference on Document Analysis and Recognition, 2013] Multi-modal Information Integration for Document Retrieval**  
-*Ehtesham Hassan, Santanu Chaudhury, M. Gopal*  
-[[Paper](https://ieeexplore.ieee.org/document/6623883)] [[GitHub](#)]
+**[CVPR, 2021] Connecting what to say with where to look by modeling human attention traces**  
+*Zihang Meng, Licheng Yu, Ning Zhang, Tamara L Berg, Babak Damavandi, Vikas Singh, Amy Bearman*  
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Meng_Connecting_What_To_Say_With_Where_To_Look_by_Modeling_CVPR_2021_paper.pdf)] [[GitHub](https://github.com/facebookresearch/connect-caption-and-trace)]
 
-**[Cancer Informatics, 2014] Medical image retrieval: a multimodal approach**  
-*Yu Cao, Shawn Steffey, Jianbiao He, Degui Xiao, Cui Tao, Ping Chen, Henning Müller*  
-[[Paper](https://journals.sagepub.com/doi/10.1177/117693511401300S08)] [[GitHub](#)]
+**[ICCV, 2021] Telling the what while pointing to the where: Multimodal queries for image retrieval**  
+*Soravit Changpinyo, Jordi Pont-Tuset, Vittorio Ferrari, Radu Soricut*  
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Changpinyo_Telling_the_What_While_Pointing_to_the_Where_Multimodal_Queries_ICCV_2021_paper.pdf)]
+
+# 2020
 
 **[arXiv, 2020] A Feature Analysis for Multimodal News Retrieval**  
 *Golsa Tahmasebzadeh, Sherzod Hakimov, Eric Müller-Budack, Ralph Ewerth*  
-[[Paper](https://arxiv.org/abs/2007.06390)] [[GitHub](#)]
+[[Paper](https://arxiv.org/abs/2007.06390)] [[GitHub](https://github.com/cleopatra-itn/multimodal-news-retrieval)]
 
+#2019
+
+**[Multimedia Tools and Applications, 2019] Efficient and interactive spatial-semantic image retrieval**  
+*Ryosuke Furuta, Naoto Inoue, Toshihiko Yamasaki*  
+[[Paper](https://link.springer.com/content/pdf/10.1007/s11042-018-7148-1.pdf)]
+
+**[arXiv, 2019] Query by Semantic Sketch**  
+*Luca Rossetto, Ralph Gasser, Heiko Schuldt*  
+[[Paper](https://arxiv.org/abs/1909.01477)]
+
+#2017
+
+**[IJCNLP, 2017] Draw and tell: Multimodal descriptions outperform verbal-or sketch-only descriptions in an image retrieval task**  
+*Ting Han, David Schlangen*  
+[[Paper](https://tingh.github.io/files/papers/sketch_ijcnlp_short.pdf)]
+
+**[CVPR, 2017] Spatial-Semantic Image Search by Visual Feature Synthesis**  
+*Long Mai, Hailin Jin, Zhe Lin, Chen Fang, Jonathan Brandt, Feng Liu*  
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Mai_Spatial-Semantic_Image_Search_CVPR_2017_paper.pdf)]
+
+**[ACM Multimedia, 2017] Region-based image retrieval revisited**  
+*Ryota Hinami, Yusuke Matsui, Shin'ichi Satoh*  
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3123266.3123312)]
+
+#2014
+
+**[Cancer Informatics, 2014] Medical image retrieval: a multimodal approach**  
+*Yu Cao, Shawn Steffey, Jianbiao He, Degui Xiao, Cui Tao, Ping Chen, Henning Müller*  
+[[Paper](https://journals.sagepub.com/doi/pdf/10.4137/CIN.S14053)]
+
+#2013
+
+**[10th Conference on Open Research Areas in Information Retrieval, 2013] NovaMedSearch: a multimodal search engine for medical case-based retrieval**  
+*André Mourão, Flávio Martins*  
+[[Paper](https://dl.acm.org/doi/pdf/10.5555/2491748.2491798)]
+
+**[12th International Conference on Document Analysis and Recognition, 2013] Multi-modal Information Integration for Document Retrieval**  
+*Ehtesham Hassan, Santanu Chaudhury, M. Gopal*  
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6628804)]
+
+#2003
+
+**[EURASIP, 2003] Semantic indexing of multimedia content using visual, audio, and text cues**  
+*WH Adams, Giridharan Iyengar, Ching-Yung Lin, Milind Ramesh Naphade, Chalapathy Neti, Harriet J Nock, John R Smith*  
+[[Paper](https://asp-eurasipjournals.springeropen.com/counter/pdf/10.1155/S1110865703211173.pdf)]
 
 # Datasets
 
