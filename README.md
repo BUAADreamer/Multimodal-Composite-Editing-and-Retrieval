@@ -505,4 +505,4 @@
 ## Datasets for other mutimodal composite retrieval
 
 
-[NOTE] **If you have any questions or suggestions, please don't hesitate to contact us (suyanli220@gmail.com, fxhuang1995@gmail.com, leizhang@cqu.edu.cn).** 
+[NOTE] **If you have any questions or suggestions, please don't hesitate to contact us.** 
