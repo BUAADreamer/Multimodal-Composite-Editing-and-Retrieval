@@ -156,94 +156,84 @@
 
 **[CVPR, 2021] TediGAN: Text-guided diverse face image generation and manipulation**  
 *Weihao Xia, Yujiu Yang, Jing-Hao Xue, Baoyuan Wu*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Xia_TediGAN_Text-Guided_Diverse_Face_Image_Generation_and_Manipulation_CVPR_2021_paper.pdf)] [[GitHub](https://github.com/IIGROUP/TediGAN)]
 
 **[ICIP, 2021] Segmentation-Aware Text-Guided Image Manipulation**  
 *Tomoki Haruyama, Ren Togo, Keisuke Maeda, Takahiro Ogawa, Miki Haseyama*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9506601)] [[GitHub](#)]
 
 **[IJPR, 2021] FocusGAN: Preserving Background in Text-Guided Image Editing**  
 *Liuqing Zhao, Linyan Li, Fuyuan Hu, Zhenping Xia, Rui Yao*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://arxiv.org/pdf/2405.19708)]
 
 **[ICCV, 2021] StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery**  
 *Or Patashnik, Zongze Wu, Eli Shechtman, Daniel Cohen-Or, Dani Lischinski*  
-[[Paper](#)]
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Patashnik_StyleCLIP_Text-Driven_Manipulation_of_StyleGAN_Imagery_ICCV_2021_paper.pdf)] [[GitHub](https://github.com/orpatashnik/StyleCLIP)]
 
 **[MM, 2021] Text as Neural Operator: Image Manipulation by Text Instruction**  
 *Tianhao Zhang, Hung-Yu Tseng, Lu Jiang, Weilong Yang, Honglak Lee, Irfan Essa*  
-[[Paper](http://dx.doi.org/10.1145/3474085.3475343)]
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475343)] [[GitHub](https://github.com/google/tim-gan)]
 
 **[CVPR, 2021] TediGAN: Text-guided diverse face image generation and manipulation**  
 *Weihao Xia, Yujiu Yang, Jing-Hao Xue, Baoyuan Wu*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Xia_TediGAN_Text-Guided_Diverse_Face_Image_Generation_and_Manipulation_CVPR_2021_paper.pdf)] [[GitHub](https://github.com/IIGROUP/TediGAN)]
 
 **[arXiv, 2021] Paint by Word**  
 *Alex Andonian, Sabrina Osmany, Audrey Cui, YeonHwan Park, Ali Jahanian, Antonio Torralba, David Bau*  
-[[Paper](#)]
+[[Paper](https://arxiv.org/pdf/2103.10951)] [[GitHub](https://github.com/alexandonian/paint-by-word)] [[Website](http://paintbyword.csail.mit.edu/)]
 
 **[CVPR, 2021] Learning by Planning: Language-Guided Global Image Editing**  
 *Jing Shi, Ning Xu, Yihang Xu, Trung Bui, Franck Dernoncourt, Chenliang Xu*  
-[[Paper](#)]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Shi_Learning_by_Planning_Language-Guided_Global_Image_Editing_CVPR_2021_paper.pdf)] [[GitHub](https://jshi31.github.io/T2ONet/)]
 
 
 
 
 **[ACM MM, 2020] IR-GAN: Image Manipulation with Linguistic Instruction by Increment Reasoning**  
 *Zhenhuan Liu, Jincan Deng, Liang Li, Shaofei Cai, Qianqian Xu, Shuhui Wang, Qingming Huang*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3394171.3413777)] [[GitHub](https://github.com/Victarry/IR-GAN-Code)]
 
 **[CVPR, 2020] ManiGAN: Text-Guided Image Manipulation**  
 *Bowen Li, Xiaojuan Qi, Thomas Lukasiewicz, Philip HS Torr*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_ManiGAN_Text-Guided_Image_Manipulation_CVPR_2020_paper.pdf)] [[GitHub](https://github.com/mrlibw/ManiGAN)]
 
 **[NeurIPS, 2020] Lightweight Generative Adversarial Networks for Text-Guided Image Manipulation**  
 *Bowen Li, Xiaojuan Qi, Philip Torr, Thomas Lukasiewicz*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/fae0b27c451c728867a567e8c1bb4e53-Paper.pdf)] [[GitHub](https://github.com/mrlibw/Lightweight-Manipulation)]
 
 **[LNCS, 2020] CAFE-GAN: Arbitrary Face Attribute Editing with Complementary Attention Feature**  
 *Jeong-gi Kwak, David K. Han, Hanseok Ko*  
-[[Paper](http://dx.doi.org/10.1007/978-3-030-58568-6_31)]
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590511.pdf)] [[GitHub](https://github.com/zuael/CAFE-GAN-Pytorch)]
 
 **[ECCV, 2020] Open-Edit: Open-Domain Image Manipulation with Open-Vocabulary Instructions**  
 *Xihui Liu, Zhe Lin, Jianming Zhang, Handong Zhao, Quan Tran, Xiaogang Wang, Hongsheng Li*  
-[[Paper](#)]
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560086.pdf)] [[GitHub](https://github.com/xh-liu/Open-Edit)]
 
 
 
 **[ICASSP, 2019] Bilinear Representation for Language-based Image Editing Using Conditional Generative Adversarial Networks**  
 *Xiaofeng Mao, Yuefeng Chen, Yuhong Li, Tao Xiong, Yuan He, Hui Xue*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8683008)] [[GitHub](https://github.com/vtddggg/BilinearGAN_for_LBIE)]
 
 **[NeurIPS, 2018] Text-Adaptive Generative Adversarial Networks: Manipulating Images with Natural Language**  
 *Seonghyeon Nam, Yunji Kim, Seon Joo Kim*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://proceedings.neurips.cc/paper_files/paper/2018/file/d645920e395fedad7bbbed0eca3fe2e0-Paper.pdf)] [[GitHub](https://github.com/woozzu/tagan)]
 
 **[CVPR, 2018] Language-based image editing with recurrent attentive models**  
 *Jianbo Chen, Yelong Shen, Jianfeng Gao, Jingjing Liu, Xiaodong Liu*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Language-Based_Image_Editing_CVPR_2018_paper.pdf)] 
 
 **[arXiv, 2018] Interactive Image Manipulation with Natural Language Instruction Commands**  
 *Seitaro Shinagawa, Koichiro Yoshino, Sakriani Sakti, Yu Suzuki, Satoshi Nakamura*  
-[[Paper](#)]
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Morita_Interactive_Image_Manipulation_With_Complex_Text_Instructions_WACV_2023_paper.pdf)]
 
 **[CVPR, 2018] Language-based image editing with recurrent attentive models**  
 *Jianbo Chen, Yelong Shen, Jianfeng Gao, Jingjing Liu, Xiaodong Liu*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Language-Based_Image_Editing_CVPR_2018_paper.pdf)]
 
 **[ICCV, 2017] Semantic image synthesis via adversarial learning**  
 *Hao Dong, Simiao Yu, Chao Wu, Yike Guo*  
-[[Paper](#)] [[GitHub](#)]
-
-**[ICCV, 2017] Semantic image synthesis via adversarial learning**  
-*Hao Dong, Simiao Yu, Chao Wu, Yike Guo*  
-[[Paper](#)] [[GitHub](#)]
-
-
-**[arXiv, 2015] Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks**  
-*Alec Radford, Luke Metz, Soumith Chintala*  
-[[Paper](#)]
-
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Dong_Semantic_Image_Synthesis_ICCV_2017_paper.pdf)] [[GitHub](https://github.com/woozzu/dong_iccv_2017)]
 
 
 
@@ -258,41 +248,37 @@
 
 **[ICMR, 2024] Enhancing Interactive Image Retrieval With Query Rewriting Using Large Language Models and Vision Language Models**  
 *Hongyi Zhu, Jia-Hong Huang, Stevan Rudinac, Evangelos Kanoulas*  
-[[Paper](http://dx.doi.org/10.1145/3652583.3658032)] [[GitHub](#)]
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3652583.3658032)] [[GitHub](https://github.com/s04240051/Multimodal-Conversational-Retrieval-System)]
 
 **[arXiv, 2024] Improving Composed Image Retrieval via Contrastive Learning with Scaling Positives and Negatives**  
 *Zhangchi Feng, Richong Zhang, Zhijie Nie*  
-[[Paper](https://arxiv.org/abs/2404.11317)] [[GitHub](#)]
-
-**[AAAI, 2024] Dynamic weighted combiner for mixed-modal image retrieval**  
-*Fuxiang Huang, Lei Zhang, Xiaowei Fu, Suqi Song*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://openreview.net/pdf?id=nQ74f9uyO9)]
 
 **[CVPR, 2024] Language-only Training of Zero-shot Composed Image Retrieval**  
 *Geonmo Gu, Sanghyuk Chun, Wonjae Kim, Yoohoon Kang, Sangdoo Yun*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Gu_Language-only_Training_of_Zero-shot_Composed_Image_Retrieval_CVPR_2024_paper.pdf)] [[GitHub](https://github.com/navervision/lincir)]
 
 **[AAAI, 2024] Context-I2W: Mapping Images to Context-dependent Words for Accurate Zero-Shot Composed Image Retrieval**  
 *Yuanmin Tang, Jing Yu, Keke Gai, Jiamin Zhuang, Gang Xiong, Yue Hu, Qi Wu*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://arxiv.org/pdf/2309.16137)] [[GitHub](https://github.com/Pter61/context-i2w)]
 
 **[CVPR, 2024] Knowledge-enhanced dual-stream zero-shot composed image retrieval**  
 *Yucheng Suo, Fan Ma, Linchao Zhu, Yi Yang*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Suo_Knowledge-Enhanced_Dual-stream_Zero-shot_Composed_Image_Retrieval_CVPR_2024_paper.pdf)]
 
 #2023
 
 **[CVPR, 2023] Fame-vil: Multi-tasking vision-language model for heterogeneous fashion tasks**  
 *Xiao Han, Xiatian Zhu, Licheng Yu, Li Zhang, Yi-Zhe Song, Tao Xiang*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Han_FAME-ViL_Multi-Tasking_Vision-Language_Model_for_Heterogeneous_Fashion_Tasks_CVPR_2023_paper.pdf)] [[GitHub](https://github.com/BrandonHanx/FAME-ViL)]
 
 **[ICCV, 2023] FashionNTM: Multi-turn fashion image retrieval via cascaded memory**  
 *Anwesan Pal, Sahil Wadhwa, Ayush Jaiswal, Xu Zhang, Yue Wu, Rakesh Chada, Pradeep Natarajan, Henrik I Christensen*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Pal_FashionNTM_Multi-turn_Fashion_Image_Retrieval_via_Cascaded_Memory_ICCV_2023_paper.pdf)]
 
 **[CVPR, 2023] Pic2word: Mapping pictures to words for zero-shot composed image retrieval**  
 *Kuniaki Saito, Kihyuk Sohn, Xiang Zhang, Chun-Liang Li, Chen-Yu Lee, Kate Saenko, Tomas Pfister*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Saito_Pic2Word_Mapping_Pictures_to_Words_for_Zero-Shot_Composed_Image_Retrieval_CVPR_2023_paper.pdf)] [[GitHub](https://github.com/google-research/composed_image_retrieval)]
 
 **[arXiv, 2023] Pretrain like you inference: Masked tuning improves zero-shot composed image retrieval**  
 *Junyang Chen, Hanjiang Lai*  
@@ -300,61 +286,65 @@
 
 **[ICCV, 2023] Zero-shot composed image retrieval with textual inversion**  
 *Alberto Baldrati, Lorenzo Agnolucci, Marco Bertini, Alberto Del Bimbo*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.pdf)] [[GitHub](https://github.com/miccunifi/SEARLE)]
+
+**[ACM, 2023] Composed Image Retrieval using Contrastive Learning and Task-oriented CLIP-based Features**  
+*Alberto Baldrati, Marco Bertini, Tiberio Uricchio, Alberto Del Bimbo*  
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3617597)] [[GitHub](https://github.com/ABaldrati/CLIP4Cir)]
+
 
 #2022
 
-**[IEEE Transactions on Multimedia, 2022] Adversarial and isotropic gradient augmentation for image retrieval with text feedback**  
+**[IEEE, 2022] Adversarial and isotropic gradient augmentation for image retrieval with text feedback**  
 *Fuxiang Huang, Lei Zhang, Yuhang Zhou, Xinbo Gao*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9953564)]
 
 **[TOMM, 2022] Tell, imagine, and search: End-to-end learning for composing text and image to image retrieval**  
 *Feifei Zhang, Mingliang Xu, Changsheng Xu*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3478642)]
 
 **[arXiv, 2022] Image Search with Text Feedback by Additive Attention Compositional Learning**  
 *Yuxin Tian, Shawn Newsam, Kofi Boakye*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://arxiv.org/pdf/2203.03809)]
 
-
-**[IEEE Transactions on Multimedia, 2022] Heterogeneous feature alignment and fusion in cross-modal augmented space for composed image retrieval**  
+**[IEEE, 2022] Heterogeneous feature alignment and fusion in cross-modal augmented space for composed image retrieval**  
 *Huaxin Pang, Shikui Wei, Gangjian Zhang, Shiyin Zhang, Shuang Qiu, Yao Zhao*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475659)]
 
 
 **[ICLR, 2022] ARTEMIS: Attention-based Retrieval with Text-Explicit Matching and Implicit Similarity**  
 *Ginger Delmas, Rafael S. Rezende, Gabriela Csurka, Diane Larlus*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://openreview.net/pdf?id=CVfLvQq9gLo)] [[GitHub](https://github.com/naver/artemis)]
 
 **[WACV, 2022] SAC: Semantic attention composition for text-conditioned image retrieval**  
 *Surgan Jandial, Pinkesh Badjatiya, Pranit Chawla, Ayush Chopra, Mausoom Sarkar, Balaji Krishnamurthy*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Jandial_SAC_Semantic_Attention_Composition_for_Text-Conditioned_Image_Retrieval_WACV_2022_paper.pdf)]
 
 #2021
 
 **[SIGIR, 2021] Comprehensive linguistic-visual composition network for image retrieval**  
 *Haokun Wen, Xuemeng Song, Xin Yang, Yibing Zhan, Liqiang Nie*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://liqiangnie.github.io/paper/Comprehensive%20Linguistic-Visual%20Composition%20Network%20for%20Image%20Retrieval.pdf)]
 
 **[AAAI, 2021] Dual compositional learning in interactive image retrieval**  
 *Jongseok Kim, Youngjae Yu, Hoeseong Kim, Gunhee Kim*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16271/16078)] [[GitHub](https://github.com/ozmig77/dcnet)]
 
 **[CVPRW, 2021] Leveraging Style and Content features for Text Conditioned Image Retrieval**  
 *Pranit Chawla, Surgan Jandial, Pinkesh Badjatiya, Ayush Chopra, Mausoom Sarkar, Balaji Krishnamurthy*  
-[[Paper](https://doi.org/10.1109/CVPRW53098.2021.00448)] [[GitHub](#)]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021W/CVFAD/papers/Chawla_Leveraging_Style_and_Content_Features_for_Text_Conditioned_Image_Retrieval_CVPRW_2021_paper.pdf)]
 
 **[ICCV, 2021] Image retrieval on real-life images with pre-trained vision-and-language models**  
 *Zheyuan Liu, Cristian Rodriguez-Opazo, Damien Teney, Stephen Gould*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9710082)] [[GitHub](https://github.com/Cuberick-Orion/CIRPLANT)]
 
 **[SIGIR, 2021] Conversational fashion image retrieval via multiturn natural language feedback**  
 *Yifei Yuan, Wai Lam*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3462881)] [[GitHub](https://github.com/yfyuan01/MultiturnFashionRetrieval)]
 
 **[WACV, 2021] Compositional learning of image-text query for image retrieval**  
 *Muhammad Umer Anwaar, Egor Labintcev, Martin Kleinsteuber*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Anwaar_Compositional_Learning_of_Image-Text_Query_for_Image_Retrieval_WACV_2021_paper.pdf)] [[GitHub](https://github.com/ecom-research/ComposeAE)]
 
 
 
@@ -370,38 +360,11 @@
 
 **[CVPR, 2020] Image search with text feedback by visiolinguistic attention learning**  
 *Yanbei Chen, Shaogang Gong, Loris Bazzani*  
-[[Paper](#)] [[GitHub](#)]
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Chen_Image_Search_With_Text_Feedback_by_Visiolinguistic_Attention_Learning_CVPR_2020_paper.html)] [[GitHub](https://github.com/yanbeic/VAL?tab=readme-ov-file)]
 
 **[arXiv, 2020] Modality-Agnostic Attention Fusion for visual search with text feedback**  
 *Eric Dodds, Jack Culpepper, Simao Herdade, Yang Zhang, Kofi Boakye*  
 [[Paper](#)] [[GitHub](#)]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #2018
 
