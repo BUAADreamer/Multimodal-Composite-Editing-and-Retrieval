@@ -496,13 +496,56 @@
 *WH Adams, Giridharan Iyengar, Ching-Yung Lin, Milind Ramesh Naphade, Chalapathy Neti, Harriet J Nock, John R Smith*  
 [[Paper](https://asp-eurasipjournals.springeropen.com/counter/pdf/10.1155/S1110865703211173.pdf)]
 
-# Datasets
 
+# Datasets
 ## Datasets for image-text composite editing
 
+| **Dataset**                     | **Modalities**                    | **Scale**                                | **Link**                                                                                           |
+|---------------------------------|-----------------------------------|------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Caltech-UCSD Birds(CUB)         | Images, Captions                  | 11K images, 11K attributes               | [Link](https://www.vision.caltech.edu/datasets/cub_200_2011/)                                      |
+| Oxford-102 flower               | Images, Captions                  | 8K images, 8K attributes                 | [Link](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/)                                         |
+| CelebFaces Attributes (CelebA)  | Images, Captions                  | 202K images, 8M attributes               | [Link](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)                                          |
+| DeepFashion (Fashion Synthesis) | Images, Captions                  | 78K images, -                            | [Link](https://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/FashionSynthesis.html)                    |
+| MIT-Adobe 5k                    | Images, Captions                  | 5K images, 20K texts                     | [Link](https://data.csail.mit.edu/graphics/fivek/)                                                 |
+| MS-COCO                         | Image, Caption                    | 164K images, 616K texts                  | [Link](https://cocodataset.org/)                                                                   |
+| ReferIt                         | Image, Caption                    | 19K images, 130K text                    | [Link](https://github.com/lichengunc/refer)                                                        |
+| CLEVR                           | 3D images, Questions              | 100K images, 865K questions              | [Link](https://cs.stanford.edu/people/jcjohns/clevr/)                                              |
+| i-CLEVR                         | 3D image, Instruction             | 10K sequences, 50K instructions          | [Link](https://github.com/topics/i-clevr)                                                          |
+| CSS                             | 3D images, 2D images, Instructions| 34K images, -                            | [Link](https://drive.google.com/file/d/1wPqMw-HKmXUG2qTgYBiTNUnjz83hA2tY/view?pli=1)               |
+| CoDraw                          | images, text instructions         | 9K images, -                             | [Link](https://github.com/facebookresearch/CoDraw)                                                 |
+| Cityscapes                      | images, Captions                  | 25K images, -                            | [Link](https://www.cityscapes-dataset.com/)                                                        |
+| Zap-Seq                         | image sequences, Captions         | 8K images, 18K texts                     | -                                                                                                  |
+| DeepFashion-Seq                 | image sequences, Captions         | 4K images, 12K texts                     | -                                                                                                  |
+| FFHQ                            | Images                            | 70K images                               | [Link](https://github.com/NVlabs/ffhq-dataset)                                                     |
+| LSUN                            | Images                            | 1M images                                | [Link](https://github.com/fyu/lsun/blob/master/README.md)                                          |
+| Animal FacesHQ (AFHQ)           | Images                            | 15K images                               | [Link](https://www.kaggle.com/datasets/andrewmvd/animal-faces/code)                                 |
+| CelebA-HQ                       | Images                            | 30K images                               | [Link](https://github.com/tkarras/progressive_growing_of_gans)                                     |
+| Animal faces                    | Images                            | 16K images                               | [Link](https://www.kaggle.com/datasets/andrewmvd/animal-faces)                                     |
+| Landscapes                      | Images                            | 4K images                                | [Link](https://www.kaggle.com/datasets/arnaud58/landscape-pictures)                                |
+
 ## Datasets for image-text composite retrieval
+| **Dataset**                     | **Modalities**                    | **Scale**                                | **Link**                                                                                           |
+|---------------------------------|-----------------------------------|------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Fashion200k                     | Image, Captions                   | 200K images, 200K text                   | [Link](https://github.com/xthan/fashion-200k)                                                      |
+| MIT-States                      | Image, Captions                   | 53K images, 53K text                     | [Link](https://web.mit.edu/phillipi/Public/states_and_transformations/index.html)                  |
+| Fashion IQ                      | Image, Captions                   | 77K images, -                            | [Link](https://github.com/XiaoxiaoGuo/fashion-iq)                                                  |
+| CIRR                            | Image, Captions                   | 21K images, -                            | [Link](https://github.com/Cuberick-Orion/CIRR)                                                     |
+| CSS                             | 3D images, 2D images, Instructions| 34K images, -                            | [Link](https://drive.google.com/file/d/1wPqMw-HKmXUG2qTgYBiTNUnjz83hA2tY/view?pli=1)               |
+| Shoes                           | Images                            | 14K images                               | [Link](https://www.kaggle.com/datasets/noobyogi0100/shoe-dataset)                                  |
+| Birds-to-Words                  | Images, Captions                  | -                                        | [Link](https://github.com/google-research-datasets/birds-to-words)                                 |
+| SketchyCOCO                     | Images, Sketches                  | 14K sketches, 14K photos                 | [Link](https://github.com/sysu-imsl/SketchyCOCO)                                                   |
+| FSCOCO                          | Images, Sketches                  | 10K sketches                             | [Link](https://www.pinakinathc.me/fscoco/)                                                         |
 
 ## Datasets for other mutimodal composite retrieval
-
+| **Dataset**                     | **Modalities**                    | **Scale**                                | **Link**                                                                                           |
+|---------------------------------|-----------------------------------|------------------------------------------|----------------------------------------------------------------------------------------------------|
+| HumanML3D                       | Motions, Captions                 | 14K motion sequences, 44K text           | [Link](https://github.com/EricGuo5513/HumanML3D)                                                   |
+| KIT-ML                          | Motions, Captions                 | 3K motion sequences, 6K text             | [Link](https://h2t.iar.kit.edu/english/1445.php)                                                   |
+| Text2Shape                      | Shapes, Captions                  | 6K chairs, 8K tables, 70K text           | [Link](https://github.com/kchen92/text2shape)                                                      |
+| Flickr30k LocNar                | Images, Captions                  | 31K images, 155K texts                   | [Link](https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset)                            |
+| Conceptual Captions             | Images, Captions                  | 3.3M images, 33M texts                   | [Link](https://github.com/google-research-datasets/conceptual-captions)                            |
+| Sydney_IV                       | RS Images, Audio Captions         | 613 images, 3K audio descriptions        | [Link](https://github.com/201528014227051/RSICD_optimal)                                           |
+| UCM_IV                          | Images, Audio Captions            | 2K images, 10K audio descriptions        | [Link](https://github.com/201528014227051/RSICD_optimal)                                           |
+| RSICD_IV                        | Image, Audio Captions             | 11K images, 55K audio descriptions       | [Link](https://github.com/201528014227051/RSICD_optimal)                                           |
 
 [NOTE] **If you have any questions or suggestions, please don't hesitate to contact us.** 
