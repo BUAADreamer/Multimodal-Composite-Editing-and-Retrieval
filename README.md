@@ -2,6 +2,23 @@
 
 :fire::fire: This is a collection of awesome articles about multimodal composite editing and retrieval:fire::fire:
 
+[NEWS.20240909] **The related survey [paper](http://arxiv.org/abs/2409.05405) has been released.**
+
+[NOTE] **If you have any questions, please don't hesitate to [contact us](fxhuang1995@gmail.com).** 
+
+If you find this repository is useful for you, please cite our paper:
+```
+@misc{li2024survey,
+      title={A Survey of Multimodal Composite Editing and Retrieval}, 
+      author={Suyan Li, Fuxiang Huang, and Lei Zhang},
+      year={2024},
+      eprint={2409.05405},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
+
 - [Papers and related codes](#papers-and-related-codes)
   - [Image-text composite editing](#image-text-composite-editing)
   - [Image-text composite retrieval](#image-text-composite-retrieval)
@@ -547,5 +564,3 @@
 | Sydney_IV                       | RS Images, Audio Captions         | 613 images, 3K audio descriptions        | [Link](https://github.com/201528014227051/RSICD_optimal)                                           |
 | UCM_IV                          | Images, Audio Captions            | 2K images, 10K audio descriptions        | [Link](https://github.com/201528014227051/RSICD_optimal)                                           |
 | RSICD_IV                        | Image, Audio Captions             | 11K images, 55K audio descriptions       | [Link](https://github.com/201528014227051/RSICD_optimal)                                           |
-
-[NOTE] **If you have any questions or suggestions, please don't hesitate to contact us.** 
