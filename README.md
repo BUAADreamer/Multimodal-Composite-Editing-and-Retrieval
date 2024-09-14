@@ -269,7 +269,7 @@ If you find this repository is useful for you, please cite our paper:
 
 **[arXiv, 2024] Improving Composed Image Retrieval via Contrastive Learning with Scaling Positives and Negatives**  
 *Zhangchi Feng, Richong Zhang, Zhijie Nie*  
-[[Paper](https://openreview.net/pdf?id=nQ74f9uyO9)]
+[[Paper](https://arxiv.org/abs/2404.11317)] [[GitHub](https://github.com/BUAADreamer/SPN4CIR)]
 
 **[CVPR, 2024] Language-only Training of Zero-shot Composed Image Retrieval**  
 *Geonmo Gu, Sanghyuk Chun, Wonjae Kim, Yoohoon Kang, Sangdoo Yun*  
